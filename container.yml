@@ -1,0 +1,7 @@
+ports:
+ - 5007:5007
+volumes:
+ - /srv/socialhelp/tracproject:/project
+
+memory: 256m
+cpu: 50
